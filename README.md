@@ -7,21 +7,23 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Android%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Computer Sceince Student & Android developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Java and  Android studio  or anything related to android development.
+- 🏢 I'm a Software Mobile Developer
+- 👨‍💻 As a Mobile Developer, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Java, Kotlin and Dart  or anything related to understanding android OS.
 
 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/philopater-ghabrial-0482b3256/" target="_blank"><img src="https://img.shields.io/badge/-Philopater%20Odelf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/philo.odolf?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Philopater%20Odelf-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<!-- <a href="https://www.facebook.com/philo.odolf?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Philopater%20Odelf-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a> -->
 <!-- <a href="https://www.instagram.com/karimkhaled924/" target="_blank"><img src="https://img.shields.io/badge/-karim%20Khaled-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
